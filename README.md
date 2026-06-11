@@ -1,17 +1,20 @@
 <img width="512" height="512" alt="camera" src="https://github.com/user-attachments/assets/f57f20ee-9fd0-4c64-9412-e74e1c1fe66c" />
 
 
-<!--
-**juliafariasa/juliafariasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia Farias 
 
-Here are some ideas to get you started:
+💻 -> Hard Skills: 
+     - raciocínio lógico
+     - arduino
+     - HTML
+     - CSS
+     - Java Script
+     - Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 -> Soft Skills: 
+     - criatividade
+     - organização
+     - trabalho em equipe
+     - comunicação
+     - pensamento analítico
+     - pensamento crítico
