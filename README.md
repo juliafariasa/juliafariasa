@@ -31,6 +31,6 @@ I'm Julia Farias
      - desenvolvimen
 
 📞 -> Contatos: 
-     - Linkedin:
+     - Linkedin: https://www.linkedin.com/in/juliafariasa/
      - email: jfa@cesar.school
      - portifólio: https://juliafarias-portifolio.vercel.app/
