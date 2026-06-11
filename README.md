@@ -18,3 +18,19 @@ I'm Julia Farias
      - comunicação
      - pensamento analítico
      - pensamento crítico
+
+🧠 -> Interesses: 
+     - desenvolvimento de software
+     - tecnologia assistiva
+     - saúde digital
+     - UX/UI design 
+     - IoT
+     - inovacao social
+
+📓 -> projetos: 
+     - desenvolvimen
+
+📞 -> Contatos: 
+     - Linkedin:
+     - email: jfa@cesar.school
+     - portifólio: https://juliafarias-portifolio.vercel.app/
